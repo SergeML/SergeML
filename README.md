@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergio Komarov (@SergeML)
+- 👋 Hi, I’m Sergiо Kоmarоv (@SergeML)
 - 👀 I’m interested in Data-Science and Machine Learning
 - 📫 sergio.komarov@mlengineer.ru
 
